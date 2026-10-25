@@ -1,0 +1,5 @@
+banco,cliente_id,referencia,fecha,importe
+Banco B,DEMO-B01,201,2030-04-14 20:00:00,120.00
+Banco B,DEMO-B02,202,2030-04-15 10:00:00,65.00
+Banco B,DEMO-B03,203,2030-04-15 11:00:00,95.00
+Banco B,DEMO-B05,205,2030-04-15 19:00:00,25.00

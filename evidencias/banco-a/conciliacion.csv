@@ -1,0 +1,8 @@
+cliente_id,referencia,importe_sistema,importe_banco,diferencia,estado
+DEMO-A01,101,100.00,100.00,0.00,Conciliado
+DEMO-A02,102,50.00,50.00,0.00,Conciliado
+DEMO-A03,103,80.00,75.00,5.00,Diferencia de importe
+DEMO-A04,104,40.00,,40.00,Solo en sistema
+DEMO-A05,105,20.00,,20.00,Solo en sistema
+DEMO-A06,101,30.00,30.00,0.00,Conciliado
+DEMO-A11,106,,60.00,-60.00,Solo en banco

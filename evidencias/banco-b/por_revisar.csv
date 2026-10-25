@@ -1,0 +1,4 @@
+cliente_id,referencia,importe_sistema,importe_banco,diferencia,estado
+DEMO-B03,203,90.00,95.00,-5.00,Diferencia de importe
+DEMO-B04,204,35.00,,35.00,Solo en sistema
+DEMO-B05,205,,25.00,-25.00,Solo en banco

@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+salidas/
+build/
+dist/
+*.exe
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
